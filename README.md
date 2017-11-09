@@ -4,4 +4,4 @@ Basic project to get started working with React and Webpack.
 
 ## Usage
 
-Run `npm run dev` to run webpack-dev-server. When you save, your work is updated automatically.
+Run `npm run dev` in the terminal to run webpack-dev-server. When you save, your work is updated automatically.
